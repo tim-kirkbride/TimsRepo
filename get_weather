@@ -1,4 +1,3 @@
 #!/bin/sh 
 
-echo "The Weather is Hot"
-echo "Or the weather is cold"
+r = curl "https://api.darksky.net/forecast/49459c328c05673432159671d7e844dc/-37.854762,144.984741?units=ca"
