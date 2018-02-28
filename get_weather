@@ -1,3 +1,4 @@
 #!/bin/sh 
 
 echo "The Weather is Hot"
+echo "Or the weather is cold"
